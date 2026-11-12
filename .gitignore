@@ -1,0 +1,6 @@
+tools/masks/
+tools/screenshots/
+__pycache__/
+.DS_Store
+.vercel
+assets/products.json
